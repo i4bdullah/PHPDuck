@@ -1,6 +1,6 @@
 # PHPDuck
 
-PHPDuck is a non-alphanumeric PHP code encoder, it uses only the following ten special characters: \[]()$_;+.=
+PHPDuck is a non-alphanumeric PHP code encoder, it uses only the following ten special characters: \[]()$_;+.=  
 It was originally created to solve a CTF challenge that allowed users to pass certain set of special characters to eval(), it could be useful to bypass some WAFs too.
 
 # Usage
