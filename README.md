@@ -12,8 +12,8 @@ Example: python3 PHPDuck.py "readfile('config.php');"
 ```
 
 ## Limitations
-* Do not support numbers encoding
-* Do not support encodinng of any special character other than: \[]()$_;+.=
+* Does not support numbers encoding
+* Does not support encodinng of any special character other than: \[]()$_;+.=
 
 ### TODOs
 
